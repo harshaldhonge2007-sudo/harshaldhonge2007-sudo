@@ -74,8 +74,8 @@ public:
 <div align="center">
 
 <a href="https://github.com/harshaldhonge2007-sudo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshaldhonge2007-sudo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=9c5ff2&text_color=c9d1d9&icon_color=00f2fe" alt="Harshal's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshaldhonge2007-sudo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9c5ff2&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-vibe-project1.vercel.app/api?username=harshaldhonge2007-sudo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=9c5ff2&text_color=c9d1d9&icon_color=00f2fe" alt="Harshal's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-vibe-project1.vercel.app/api/top-langs/?username=harshaldhonge2007-sudo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9c5ff2&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 </a>
 
 </div>
@@ -169,8 +169,8 @@ Performance:   ⭐⭐⭐⭐⭐ Fastest    ⭐⭐⭐ Average    ⭐ Slowest
 
 <div align="center">
 
-[![MergeSort Card](https://github-readme-stats.vercel.app/api/pin/?username=harshaldhonge2007-sudo&repo=MergeSort&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9c5ff2&text_color=c9d1d9&icon_color=00f2fe&border_radius=10)](https://github.com/harshaldhonge2007-sudo/MergeSort)
-[![Bubble Sort Card](https://github-readme-stats.vercel.app/api/pin/?username=harshaldhonge2007-sudo&repo=Recursive_bubbleSort&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9c5ff2&text_color=c9d1d9&icon_color=00f2fe&border_radius=10)](https://github.com/harshaldhonge2007-sudo/Recursive_bubbleSort)
+[![MergeSort Card](https://github-readme-stats-vibe-project1.vercel.app/api/pin/?username=harshaldhonge2007-sudo&repo=MergeSort&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9c5ff2&text_color=c9d1d9&icon_color=00f2fe&border_radius=10)](https://github.com/harshaldhonge2007-sudo/MergeSort)
+[![Bubble Sort Card](https://github-readme-stats-vibe-project1.vercel.app/api/pin/?username=harshaldhonge2007-sudo&repo=Recursive_bubbleSort&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9c5ff2&text_color=c9d1d9&icon_color=00f2fe&border_radius=10)](https://github.com/harshaldhonge2007-sudo/Recursive_bubbleSort)
 
 </div>
 
