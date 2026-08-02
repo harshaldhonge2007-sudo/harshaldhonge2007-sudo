@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Harshal%20Dhonge&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Developer%20%7C%20Data%20Science%20%26%20ML%20Enthusiast&descAlignY=58&descSize=18&v=2" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Harshal+Dhonge&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Developer+%7C+Data+Science+%26+ML+Enthusiast&descAlignY=56&descSize=18" />
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=9C5FF2&center=true&vCenter=true&multiline=false&width=600&lines=🚀+Python+%26+JS+Developer;⚡+Data+Science+%26+ML+Enthusiast;🎯+NumPy+%7C+Pandas+%7C+scikit-learn;💡+Building+Web+%26+Intelligent+Apps.)](https://git.io/typing-svg)
@@ -95,7 +95,7 @@ class Developer:
 <div align="center">
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer&v=2" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" />
 
 <sub>✨ Profile generated and powered by <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>, <a href="https://git.io/streak-stats">streak-stats</a>, and <a href="https://github.com/DenverCoder1/readme-typing-svg">readme-typing-svg</a></sub>
 
