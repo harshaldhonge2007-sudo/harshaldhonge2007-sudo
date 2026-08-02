@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Harshal%20Dhonge&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=C%2B%2B%20Developer%20%7C%20Algorithm%20Specialist%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Harshal%20Dhonge&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Developer%20%7C%20Data%20Science%20%26%20ML%20Enthusiast&descAlignY=58&descSize=18" />
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=9C5FF2&center=true&vCenter=true&multiline=false&width=600&lines=🚀+C%2B%2B+Developer+%26+DSA+Enthusiast;⚡+Building+High-Performance+Algorithms;🎯+Recursive+%7C+Divide+%26+Conquer+%7C+Sorting;💡+Clean+Code.+Optimal+Solutions.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=9C5FF2&center=true&vCenter=true&multiline=false&width=600&lines=🚀+Python+%26+JS+Developer;⚡+Data+Science+%26+ML+Enthusiast;🎯+NumPy+%7C+Pandas+%7C+scikit-learn;💡+Building+Web+%26+Intelligent+Apps.)](https://git.io/typing-svg)
 
 <!-- Visitor Badge + Profile Views -->
 <p>
@@ -19,33 +19,27 @@
 
 ## 👨‍💻 About Me
 
-```cpp
-// Harshal Dhonge — Developer Profile
-#include <iostream>
-#include <vector>
-#include <string>
-using namespace std;
+```python
+# Harshal Dhonge — Developer Profile
 
-class Developer {
-public:
-    string name     = "Harshal Dhonge";
-    string username = "harshaldhonge2007-sudo";
-    string focus    = "Data Structures & Algorithms in C++";
-    string goal     = "Write clean, efficient, optimal code";
-    
-    vector<string> currentlyLearning = {
-        "Advanced Sorting Algorithms",
-        "Recursive Problem Decomposition",
-        "Time & Space Complexity Analysis",
-        "Competitive Programming"
-    };
-
-    vector<string> funFacts = {
-        "I think recursively 🌀",
-        "My best sort is O(n log n) 📈",
-        "I document every algorithm I write 📝"
-    };
-};
+class Developer:
+    def __init__(self):
+        self.name = "Harshal Dhonge"
+        self.username = "harshaldhonge2007-sudo"
+        self.focus = "Data Science | Machine Learning | Web Development"
+        self.tech_stack = ["Python", "JS", "C", "NumPy", "Pandas", "scikit-learn"]
+        
+        self.currently_learning = [
+            "Data Analysis & Visualization",
+            "Machine Learning Models",
+            "Advanced Web Technologies"
+        ]
+        
+        self.fun_facts = [
+            "I love analyzing patterns in data 📊",
+            "I turn data into insights 💡",
+            "I build sleek web experiences 🌐"
+        ]
 ```
 
 ---
@@ -54,16 +48,16 @@ public:
 
 <div align="center">
 
-### 💻 Languages
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-### 🔧 Tools & Environment
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnome-terminal&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
 
@@ -73,104 +67,14 @@ public:
 
 <div align="center">
 
-<a href="https://github.com/harshaldhonge2007-sudo">
-  <img height="180em" src="https://github-readme-stats-nu-three-k2rjt0zy91.vercel.app/api?username=harshaldhonge2007-sudo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=9c5ff2&text_color=c9d1d9&icon_color=00f2fe" alt="Harshal's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats-nu-three-k2rjt0zy91.vercel.app/api/top-langs/?username=harshaldhonge2007-sudo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9c5ff2&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-</a>
+<img height="180em" src="https://github-readme-stats.shion.dev/api?username=harshaldhonge2007-sudo&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Harshal's GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=harshaldhonge2007-sudo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=harshaldhonge2007-sudo&theme=tokyonight&hide_border=true&background=0D1117&ring=9c5ff2&fire=00f2fe&currStreakLabel=9c5ff2&sideNums=c9d1d9&currStreakNum=ff4081&sideLabels=8b949e&dates=8b949e)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🌐 Programming Languages Used
-
-<div align="center">
-
-![C++](https://img.shields.io/badge/C%2B%2B-95%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-5%25-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-```
-📊 Language Distribution Across All Projects
-
-C++   ████████████████████████░   95.00%
-C     █░░░░░░░░░░░░░░░░░░░░░░░░    5.00%
-```
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=harshaldhonge2007-sudo&theme=tokyonight&no-frame=true&margin-w=10&column=4&title=Commits,Repositories,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🚀 Projects & Repositories
-
-<div align="center">
-
-| 🗂️ Repository | 📌 Description | 🧮 Algorithm | ⏱️ Time | 💾 Space | 🔄 Stable |
-|:---|:---|:---:|:---:|:---:|:---:|
-| [**📂 MergeSort**](https://github.com/harshaldhonge2007-sudo/MergeSort) | Divide & Conquer merge sort in C++ | Merge Sort | `O(n log n)` | `O(n)` | ✅ Yes |
-| [**📂 Recursive Bubble Sort**](https://github.com/harshaldhonge2007-sudo/Recursive_bubbleSort) | Recursive implementation of Bubble Sort | Bubble Sort | `O(n²)` | `O(n)` stack | ✅ Yes |
-| **📄 QuickSort.cpp** | Partition-based quicksort with low pivot | Quick Sort | `O(n log n)` | `O(log n)` | ❌ No |
-| **📄 Recursive Insertion Sort** | Recursive insertion sort implementation | Insertion Sort | `O(n²)` | `O(n)` stack | ✅ Yes |
-
-</div>
-
----
-
-## 📈 Algorithm Complexity Overview
-
-<div align="center">
-
-```
-Sorting Algorithm Performance Comparison
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Algorithm              Best        Average      Worst       Space
-─────────────────────────────────────────────────────────────────
-Merge Sort          O(n log n)  O(n log n)  O(n log n)    O(n)   ⚡
-Quick Sort          O(n log n)  O(n log n)   O(n²)      O(log n) 🚀
-Bubble Sort (Rec)     O(n)        O(n²)       O(n²)        O(n)  🫧
-Insertion Sort (Rec)  O(n)        O(n²)       O(n²)        O(n)  📥
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Performance:   ⭐⭐⭐⭐⭐ Fastest    ⭐⭐⭐ Average    ⭐ Slowest
-               Merge / Quick         —           Bubble / Insertion
-```
-
-</div>
-
----
-
-## 📉 Contribution Activity
-
-<div align="center">
-
-[![Harshal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshaldhonge2007-sudo&theme=tokyo-night&bg_color=0d1117&color=9c5ff2&line=00f2fe&point=ff4081&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 📂 Pinned Repository Cards
-
-<div align="center">
-
-[![MergeSort Card](https://github-readme-stats-nu-three-k2rjt0zy91.vercel.app/api/pin/?username=harshaldhonge2007-sudo&repo=MergeSort&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9c5ff2&text_color=c9d1d9&icon_color=00f2fe&border_radius=10)](https://github.com/harshaldhonge2007-sudo/MergeSort)
-[![Bubble Sort Card](https://github-readme-stats-nu-three-k2rjt0zy91.vercel.app/api/pin/?username=harshaldhonge2007-sudo&repo=Recursive_bubbleSort&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9c5ff2&text_color=c9d1d9&icon_color=00f2fe&border_radius=10)](https://github.com/harshaldhonge2007-sudo/Recursive_bubbleSort)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=harshaldhonge2007-sudo&theme=dark&hide_border=false)](https://git.io/streak-stats)
 
 </div>
 
@@ -181,6 +85,7 @@ Performance:   ⭐⭐⭐⭐⭐ Fastest    ⭐⭐⭐ Average    ⭐ Slowest
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-harshaldhonge2007--sudo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshaldhonge2007-sudo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-harshal--dhonge-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshal-dhonge/)
 [![Email](https://img.shields.io/badge/Email-harshaldhonge2007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshaldhonge2007@gmail.com)
 
 </div>
