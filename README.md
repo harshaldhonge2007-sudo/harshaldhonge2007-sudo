@@ -73,15 +73,34 @@ public:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=harshaldhonge2007-sudo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=9c5ff2&text_color=c9d1d9&icon_color=00f2fe&border_radius=10" alt="Harshal's GitHub Stats"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshaldhonge2007-sudo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9c5ff2&text_color=c9d1d9&border_radius=10&langs_count=6" alt="Top Languages"/>
+<a href="https://github.com/harshaldhonge2007-sudo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshaldhonge2007-sudo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=9c5ff2&text_color=c9d1d9&icon_color=00f2fe" alt="Harshal's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshaldhonge2007-sudo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9c5ff2&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+</a>
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshaldhonge2007-sudo&theme=tokyonight&hide_border=true&background=0d1117&ring=9c5ff2&fire=00f2fe&currStreakLabel=9c5ff2&sideNums=c9d1d9&currStreakNum=ff4081&sideLabels=8b949e&dates=8b949e&border_radius=10" alt="GitHub Streak" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=harshaldhonge2007-sudo&theme=tokyonight&hide_border=true&background=0D1117&ring=9c5ff2&fire=00f2fe&currStreakLabel=9c5ff2&sideNums=c9d1d9&currStreakNum=ff4081&sideLabels=8b949e&dates=8b949e)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🌐 Programming Languages Used
+
+<div align="center">
+
+![C++](https://img.shields.io/badge/C%2B%2B-95%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-5%25-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+```
+📊 Language Distribution Across All Projects
+
+C++   ████████████████████████░   95.00%
+C     █░░░░░░░░░░░░░░░░░░░░░░░░    5.00%
+```
 
 </div>
 
@@ -91,7 +110,7 @@ public:
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=harshaldhonge2007-sudo&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=harshaldhonge2007-sudo&theme=tokyonight&no-frame=true&margin-w=10&column=4&title=Commits,Repositories,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
